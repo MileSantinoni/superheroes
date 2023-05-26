@@ -1,4 +1,4 @@
-{
+[{
         "superheroe": "Doctor Strange",
         "foto": "https://i.pinimg.com/564x/ff/2e/e8/ff2ee859391bf10ffc3bed4cda7de382.jpg",
         "alias": "Hechicero supremo",
@@ -89,5 +89,5 @@
         "ocupación": [
             "Guerrera de Wakanda", "Angel de Medianoche"],
         "resumen":"Okoye es altamente hábil en múltiples formas de combate, siendo uno de los miembros clave de Dora Milaje. Ella es excepcional en el uso de varias armas y herramientas wakandianas."
-    }
+    }]
 
